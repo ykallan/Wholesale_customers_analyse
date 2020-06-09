@@ -1,0 +1,8 @@
+# Wholesale_customers_analyse
+使用sklearn对Wholesale做简单的无监督聚类分析
+
+使用了kmeans算法与MeanShift算法，不过kmeans并不太适用这个数据集，效果不怎么好看
+
+纯当练练手了
+
+peace
